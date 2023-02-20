@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="636" height="626" viewBox="0 0 636 626">
+    <defs>
+        <filter id="Elipse_4245" x="384" y="27" width="111" height="111" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"></feOffset>
+            <feGaussianBlur stdDeviation="8" result="blur"></feGaussianBlur>
+            <feFlood flood-color="#797979" flood-opacity="0.141"></feFlood>
+            <feComposite operator="in" in2="blur"></feComposite>
+            <feComposite in="SourceGraphic" in2="SourceGraphic"></feComposite>
+        </filter>
+        <filter id="Elipse_4246" x="475" y="196" width="111" height="110" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"></feOffset>
+            <feGaussianBlur stdDeviation="8" result="blur-2"></feGaussianBlur>
+            <feFlood flood-color="#797979" flood-opacity="0.141"></feFlood>
+            <feComposite operator="in" in2="blur-2"></feComposite>
+            <feComposite in="SourceGraphic" in2="SourceGraphic"></feComposite>
+        </filter>
+        <filter id="Elipse_4247" x="133" y="32" width="111" height="111" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"></feOffset>
+            <feGaussianBlur stdDeviation="8" result="blur-3"></feGaussianBlur>
+            <feFlood flood-color="#797979" flood-opacity="0.141"></feFlood>
+            <feComposite operator="in" in2="blur-3"></feComposite>
+            <feComposite in="SourceGraphic" in2="SourceGraphic"></feComposite>
+        </filter>
+        <filter id="Elipse_4248" x="0" y="109" width="111" height="112" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"></feOffset>
+            <feGaussianBlur stdDeviation="8" result="blur-4"></feGaussianBlur>
+            <feFlood flood-color="#797979" flood-opacity="0.141"></feFlood>
+            <feComposite operator="in" in2="blur-4"></feComposite>
+            <feComposite in="SourceGraphic" in2="SourceGraphic"></feComposite>
+        </filter>
+    </defs>
+    <g id="Grupo_65412" data-name="Grupo 65412" transform="translate(-332 -1870)">
+        <!-- IMG -->
+        <path id="Caminho_92161" data-name="Caminho 92161" d="M6045.826,1066.372s10.278,158.62,172.5,167.982" transform="translate(-5657.036 992.032)" fill="none" stroke="#b0f7f5" stroke-linecap="round" stroke-width="5" stroke-dasharray="0 10" style="stroke-dashoffset: 22685;"></path>
+        <path id="Caminho_92162" data-name="Caminho 92162" d="M6175.461,986.584s-7.439,117.4,102.556,215.6" transform="translate(-5657.013 992.019)" fill="none" stroke="#b0f7f5" stroke-linecap="round" stroke-width="5" stroke-dasharray="0 10" style="stroke-dashoffset: 22685;"></path>
+        <path id="Caminho_92163" data-name="Caminho 92163" d="M6340.447,1191.039s88.219-85.221,86.8-224.508" transform="translate(-5656.985 992.015)" fill="none" stroke="#b0f7f5" stroke-linecap="round" stroke-width="5" stroke-dasharray="0 10" style="stroke-dashoffset: 22685;"></path>
+        <path id="Caminho_92164" data-name="Caminho 92164" d="M6384,1234.34s88.573,24.594,128.038-91.3" transform="translate(-5656.977 992.046)" fill="none" stroke="#b0f7f5" stroke-linecap="round" stroke-width="5" stroke-dasharray="0 10" style="stroke-dashoffset: 22685;"></path>
+        <g transform="matrix(1, 0, 0, 1, 332, 1870)" filter="url(#Elipse_4245)">
+            <circle id="Elipse_4245-2" data-name="Elipse 4245" cx="31.5" cy="31.5" r="31.5" transform="translate(408 46)" fill="#fff"></circle>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 332, 1870)" filter="url(#Elipse_4246)">
+            <ellipse id="Elipse_4246-2" data-name="Elipse 4246" cx="31.5" cy="31" rx="31.5" ry="31" transform="translate(499 215)" fill="#fff"></ellipse>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 332, 1870)" filter="url(#Elipse_4247)">
+            <circle id="Elipse_4247-2" data-name="Elipse 4247" cx="31.5" cy="31.5" r="31.5" transform="translate(157 51)" fill="#fff"></circle>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 332, 1870)" filter="url(#Elipse_4248)">
+            <ellipse id="Elipse_4248-2" data-name="Elipse 4248" cx="31.5" cy="32" rx="31.5" ry="32" transform="translate(24 128)" fill="#fff"></ellipse>
+        </g>
+        <g id="balloon" transform="matrix(0.966, -0.259, 0.259, 0.966, 368.931, 2019.324)">
+            <g id="Grupo_65399" data-name="Grupo 65399">
+                <g id="Grupo_65398" data-name="Grupo 65398">
+                    <path id="Caminho_92165" data-name="Caminho 92165" d="M10.045,18.879c4.465-.75,7.678-5.618,7.678-10.017A8.862,8.862,0,0,0,0,8.862c0,4.4,3.213,9.268,7.678,10.017L6.456,20.508a.633.633,0,0,0,.506,1.013H8.181a3.47,3.47,0,0,1-.5,1.268,4.823,4.823,0,0,0,0,5.059,3.286,3.286,0,0,1,.549,1.9.633.633,0,0,0,1.266,0,4.5,4.5,0,0,0-.716-2.529,3.564,3.564,0,0,1,0-3.8,4.641,4.641,0,0,0,.668-1.9H10.76a.633.633,0,0,0,.506-1.013ZM6.611,4.325A5.047,5.047,0,0,0,3.829,8.3a.633.633,0,0,1-.629.563.677.677,0,0,1-.07,0,.634.634,0,0,1-.559-.7A6.308,6.308,0,0,1,6.047,3.193a.633.633,0,1,1,.565,1.132Z" transform="translate(6.33 0)" fill="#23416E"></path>
+                    <path id="Caminho_92166" data-name="Caminho 92166" d="M9.743,6.022A6.306,6.306,0,0,0,5.379.032a.633.633,0,0,0-.824.695,10,10,0,0,1,.124,1.5A12.473,12.473,0,0,1,.231,11.475a.633.633,0,0,0,.017.992,5.519,5.519,0,0,0,2.2,1.036l-.232.465a.633.633,0,0,0,.566.916h.068a3.078,3.078,0,0,0,.7,1.345,1.671,1.671,0,0,1,0,2.374A2.867,2.867,0,0,0,2.78,20.58a.633.633,0,0,0,1.266,0,1.634,1.634,0,0,1,.495-1.187,2.921,2.921,0,0,0,0-3.956,2.491,2.491,0,0,1-.381-.583.621.621,0,0,0,.425-.271.632.632,0,0,0,.028-.616L4.379,13.5C7.423,12.832,9.743,9.139,9.743,6.022Z" transform="translate(20.639 6.637)" fill="#23416E"></path>
+                    <path id="Caminho_92167" data-name="Caminho 92167" d="M10.169,14.378A12.4,12.4,0,0,1,5.064,4.637,10.056,10.056,0,0,1,5.8.87a.633.633,0,0,0-.8-.831A7.619,7.619,0,0,0,0,7.168c0,3.779,2.824,8.115,6.618,8.768L6.4,16.38A.632.632,0,0,0,6.424,17a.625.625,0,0,0,.465.281,2.8,2.8,0,0,1-.453.934,3.793,3.793,0,0,0,0,4.5,2.394,2.394,0,0,1,.527,1.548.633.633,0,0,0,1.266,0,3.637,3.637,0,0,0-.739-2.25,2.538,2.538,0,0,1,0-3.1A3.811,3.811,0,0,0,8.171,17.3h.057a.633.633,0,0,0,.566-.916l-.229-.459a6.2,6.2,0,0,0,1.5-.447.633.633,0,0,0,.1-1.1Z" transform="translate(0 4.225)" fill="#23416E"></path>
+                </g>
+            </g>
+        </g>
+        <g id="piggy-bank" transform="matrix(0.966, 0.259, -0.259, 0.966, 507.646, 1938.265)">
+            <g id="Grupo_65400" data-name="Grupo 65400" transform="translate(0)">
+                <path id="Caminho_92168" data-name="Caminho 92168" d="M31.432,4.013a4.416,4.416,0,0,1-.871-.086,8.876,8.876,0,0,0,.2-1.92,2.006,2.006,0,1,0-4.013,0,3.369,3.369,0,0,0,2.141,2.756,5.794,5.794,0,0,1-.661,1.148C26.131,2.431,21.467,0,16.051,0A16.236,16.236,0,0,0,7.528,2.308a4.645,4.645,0,0,0-2.846-.97.668.668,0,0,0-.669.669,4.638,4.638,0,0,0,.8,2.6A8.878,8.878,0,0,0,2.958,8.025H2.675A2.678,2.678,0,0,0,0,10.7a4.26,4.26,0,0,0,2.017,3.635l4.67,2.91v3.487a.668.668,0,0,0,.669.669h2.675a.669.669,0,0,0,.6-.37l.792-1.583a17.806,17.806,0,0,0,9.258,0l.792,1.583a.669.669,0,0,0,.6.37h2.675a.668.668,0,0,0,.669-.669V17.191a9.03,9.03,0,0,0,4.013-7.159,7.7,7.7,0,0,0-.542-2.805,7.063,7.063,0,0,0,1.274-2.019,5.787,5.787,0,0,0,1.274.143.669.669,0,1,0,0-1.338ZM6.688,9.363A1.338,1.338,0,1,1,8.025,8.025,1.339,1.339,0,0,1,6.688,9.363Zm14.68-5.142a.669.669,0,0,1-.844.427,16.343,16.343,0,0,0-8.946,0,.669.669,0,1,1-.417-1.271,17.7,17.7,0,0,1,9.779,0A.669.669,0,0,1,21.367,4.221Zm7.923-.763a2.067,2.067,0,0,1-1.2-1.452.669.669,0,1,1,1.338,0A7.6,7.6,0,0,1,29.291,3.458Z" fill="#23416E"></path>
+            </g>
+        </g>
+        <g id="fingerprint" transform="matrix(0.966, -0.259, 0.259, 0.966, 755.767, 1935.361)">
+            <path id="Caminho_92169" data-name="Caminho 92169" d="M1.818,0A1.818,1.818,0,0,0,0,1.818V7.273a1.818,1.818,0,0,0,3.636,0V1.818A1.818,1.818,0,0,0,1.818,0Z" transform="translate(10.909 10.909)" fill="#23416E"></path>
+            <path id="path-1" d="M1.818,0A1.818,1.818,0,0,0,0,1.818V5.454a1.818,1.818,0,0,0,3.636,0V1.818A1.818,1.818,0,0,0,1.818,0Z" transform="translate(11.304 22.495)" fill="#23416E"></path>
+            <path id="Caminho_92170" data-name="Caminho 92170" d="M7.273,0A7.281,7.281,0,0,0,0,7.273v3.636a1.818,1.818,0,1,0,3.636,0V7.273a3.636,3.636,0,0,1,7.273,0V20a1.818,1.818,0,1,0,3.636,0V7.273A7.281,7.281,0,0,0,7.273,0Z" transform="translate(5.454 5.454)" fill="#23416E"></path>
+            <path id="path-1_1_" d="M1.818,0A1.818,1.818,0,0,0,0,1.818V5.454a1.818,1.818,0,0,0,3.636,0V1.818A1.818,1.818,0,0,0,1.818,0Z" transform="translate(5.68 20.62)" fill="#23416E"></path>
+            <path id="Caminho_92171" data-name="Caminho 92171" d="M3.565.165a1.821,1.821,0,0,0-2.411.895A12.649,12.649,0,0,0,0,6.363v9.091a1.818,1.818,0,1,0,3.636,0V6.363A9.013,9.013,0,0,1,4.46,2.576,1.819,1.819,0,0,0,3.565.165Z" transform="translate(0 6.364)" fill="#23416E"></path>
+            <path id="Caminho_92172" data-name="Caminho 92172" d="M2.88,5.342a9.091,9.091,0,0,1,14.392,7.385,1.818,1.818,0,0,0,3.636,0A12.728,12.728,0,0,0,.757,2.39,1.818,1.818,0,1,0,2.88,5.342Z" transform="translate(4.545 0)" fill="#23416E"></path>
+            <path id="Caminho_92173" data-name="Caminho 92173" d="M1.818,0A1.818,1.818,0,0,0,0,1.818V5.454a1.818,1.818,0,1,0,3.636,0V1.818A1.818,1.818,0,0,0,1.818,0Z" transform="translate(21.818 16.363)" fill="#23416E"></path>
+        </g>
+        <g id="money_1_" data-name="money (1)" transform="translate(851.992 2099.064) rotate(13)">
+            <g id="Grupo_65401" data-name="Grupo 65401" transform="translate(0 0)">
+                <path id="Caminho_92174" data-name="Caminho 92174" d="M27.231,10.147l-3.5-2.8V5a2.5,2.5,0,0,0-2.5-2.5H17.677C16.433,1.5,15.533.773,15.419.671a2.434,2.434,0,0,0-3.358,0C11.948.773,11.048,1.5,9.8,2.5H6.246A2.5,2.5,0,0,0,3.747,5V7.35l-3.5,2.8a.609.609,0,0,0-.25.471V24.982a2.5,2.5,0,0,0,2.5,2.5H24.982a2.5,2.5,0,0,0,2.5-2.5V10.617A.61.61,0,0,0,27.231,10.147Zm-6-6.4A1.25,1.25,0,0,1,22.484,5V7.432A4.356,4.356,0,0,1,18.8,3.747ZM12.89,1.606a1.309,1.309,0,0,1,1.7,0c.1.085.5.413,1.093.891H11.8C12.391,2.019,12.794,1.691,12.89,1.606Zm2.1,5.888A1.249,1.249,0,1,1,13.74,6.246,1.25,1.25,0,0,1,14.989,7.495Zm-5.621,5h.625v-.625a.625.625,0,0,1,1.249,0v1.561a.937.937,0,0,0,1.874,0V12.8a2.181,2.181,0,0,1,4.34-.312h.656a.625.625,0,1,1,0,1.249h-.625v.625a.625.625,0,0,1-1.249,0V12.8a.937.937,0,1,0-1.874,0v.625a2.181,2.181,0,0,1-4.34.312H9.368a.625.625,0,1,1,0-1.249ZM5,5A1.25,1.25,0,0,1,6.246,3.747H8.681A4.356,4.356,0,0,1,5,7.432V5Zm9.595,14.631a1.353,1.353,0,0,1-.87.358,1.274,1.274,0,0,1-.851-.358c-2.422-2.145-9.163-7.406-11.235-9.016L3.747,8.93v1.44a.626.626,0,0,0,.24.492c2.541,1.987,7.132,5.6,9.335,7.5a.623.623,0,0,0,.815,0c2.207-1.9,6.808-5.519,9.355-7.507a.626.626,0,0,0,.24-.492V8.93l2.112,1.681C23.768,12.223,17,17.5,14.591,19.628Z" fill="#23416E"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,34 @@
+img.logo-header {
+    width: 150px;
+    height: 80px;
+}
+
+@media (max-width:736px){
+    .logo-header {
+        width: 230px;
+        height: 137px;
+    }
+    .navbar-toggler {
+        position: fixed;
+        z-index: 32;
+        bottom: 100px;
+        right: 38px;
+        border: 1px solid #FCC130;
+        font-size: 22px;
+        background: #fff;
+    }
+    .navbar-brand{
+        width: 100%;
+        text-align: center;
+        margin: 0!important;
+    }
+}
+
+
+@media (max-width: 991px){
+    .banner {
+        margin-top: 129px;
+    }    
+}
+
+
